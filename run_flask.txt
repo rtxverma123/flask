@@ -1,0 +1,5 @@
+python3 -m venv venv
+pip install flask
+export FLASK_APP=main.py(server jaha banaya hai file name)
+flask run
+html files are to be stored in 'templates' folder.
